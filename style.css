@@ -1,0 +1,16 @@
+.flex-container {
+    display: flex;
+}
+.forecast {
+    justify-content: center;
+    flex-wrap: wrap;
+    color: red;
+}
+.Title {
+    display:flex;
+    justify-content: column;
+    color: rgb(66, 51, 153);
+    width: 30vw; 
+    padding: 4rem;
+    flex-direction: column;
+}
